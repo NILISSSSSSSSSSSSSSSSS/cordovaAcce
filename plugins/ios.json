@@ -1,0 +1,33 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-hot-code-push-plugin": {
+      "PACKAGE_NAME": "com.acce.wallet"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.acce.wallet"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.acce.wallet"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "com.acce.wallet"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.acce.wallet"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.acce.wallet"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.acce.wallet"
+    }
+  },
+  "dependent_plugins": {}
+}
